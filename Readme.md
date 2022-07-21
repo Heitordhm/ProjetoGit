@@ -1,3 +1,3 @@
 Readme no ProjetoGit
 
-git-> alteração 
+git-> alteração correta
